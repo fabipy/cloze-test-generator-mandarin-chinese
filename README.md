@@ -4,4 +4,4 @@
 5) Usage: "python run.py text.txt" -> The output text file result text.txt will be written into the same directory
 
 Notes: The source text file needs to contain a Chinese text resource. The text file requires to only have a single line!
-The line allows for multiple texts separated by the letter "j" as the delimiter (See example text files)
+The line allows for multiple texts separated by the pipe symbol "|" as the delimiter (See example text files)
