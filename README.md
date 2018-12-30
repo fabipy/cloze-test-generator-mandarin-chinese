@@ -5,3 +5,26 @@
 
 Notes: The source text file needs to contain a Chinese text resource. The text file requires to only have a single line!
 The line allows for multiple texts separated by the pipe symbol "|" as the delimiter (See example text files)
+
+
+
+
+
+The result should look like the data shown in "result_example-text-A.txt"*
+
+*Results file structure
+
+<Text: No.>
+<Full text>
+
+<List: All retrieved Synonyms>
+<List: All retrieved Antonyms>
+<List: All retrieved Hyponyms>
+<List: All retrieved Hypernyms>
+
+<Questions:> 
+(Below the generated cloze test questions + options)
+<Sentence 1>
+<A: Option A - B: Option B>
+<Sentence 2>
+<A: Option A - B: Option B>
